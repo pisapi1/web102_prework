@@ -31,11 +31,11 @@ GIF created with ...
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
+[ScreenToGif](https://www.screentogif.com/) for Windows
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+- Not being able to use Developer Tools to see console log output throughout prework
 ## License
 
     Copyright [2025] [@Braulio Quintana]
